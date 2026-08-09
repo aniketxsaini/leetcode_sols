@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aniketxsaini/leetcode_sols/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/aniketxsaini/leetcode_sols/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aniketxsaini/leetcode_sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/aniketxsaini/leetcode_sols/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/aniketxsaini/leetcode_sols/tree/master/0283-move-zeroes) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketxsaini/leetcode_sols/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/aniketxsaini/leetcode_sols/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/aniketxsaini/leetcode_sols/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aniketxsaini/leetcode_sols/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/aniketxsaini/leetcode_sols/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/aniketxsaini/leetcode_sols/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -77,4 +80,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aniketxsaini/leetcode_sols/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aniketxsaini/leetcode_sols/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aniketxsaini/leetcode_sols/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aniketxsaini/leetcode_sols/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
