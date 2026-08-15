@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aniketxsaini/leetcode_sols/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aniketxsaini/leetcode_sols/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aniketxsaini/leetcode_sols/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketxsaini/leetcode_sols/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aniketxsaini/leetcode_sols/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
 | ------- |
@@ -116,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/aniketxsaini/leetcode_sols/tree/master/0682-baseball-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aniketxsaini/leetcode_sols/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
