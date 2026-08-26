@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aniketxsaini/leetcode_sols/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/aniketxsaini/leetcode_sols/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0977-squares-of-a-sorted-array) |
+| [1539-kth-missing-positive-number](https://github.com/aniketxsaini/leetcode_sols/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aniketxsaini/leetcode_sols/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aniketxsaini/leetcode_sols/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aniketxsaini/leetcode_sols/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/aniketxsaini/leetcode_sols/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aniketxsaini/leetcode_sols/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/aniketxsaini/leetcode_sols/tree/master/0875-koko-eating-bananas) |
+| [1539-kth-missing-positive-number](https://github.com/aniketxsaini/leetcode_sols/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
