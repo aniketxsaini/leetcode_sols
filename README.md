@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/aniketxsaini/leetcode_sols/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/aniketxsaini/leetcode_sols/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aniketxsaini/leetcode_sols/tree/master/0560-subarray-sum-equals-k) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aniketxsaini/leetcode_sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aniketxsaini/leetcode_sols/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aniketxsaini/leetcode_sols/tree/master/0713-subarray-product-less-than-k) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aniketxsaini/leetcode_sols/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/aniketxsaini/leetcode_sols/tree/master/0713-subarray-product-less-than-k) |
 ## String
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/aniketxsaini/leetcode_sols/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniketxsaini/leetcode_sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
 | ------- |
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aniketxsaini/leetcode_sols/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aniketxsaini/leetcode_sols/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aniketxsaini/leetcode_sols/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
