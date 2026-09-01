@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketxsaini/leetcode_sols/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0796-rotate-string](https://github.com/aniketxsaini/leetcode_sols/tree/master/0796-rotate-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aniketxsaini/leetcode_sols/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0410-split-array-largest-sum) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aniketxsaini/leetcode_sols/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
