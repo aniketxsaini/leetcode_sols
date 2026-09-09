@@ -203,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/aniketxsaini/leetcode_sols/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aniketxsaini/leetcode_sols/tree/master/0231-power-of-two) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/aniketxsaini/leetcode_sols/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
