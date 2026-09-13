@@ -228,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aniketxsaini/leetcode_sols/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aniketxsaini/leetcode_sols/tree/master/0142-linked-list-cycle-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/aniketxsaini/leetcode_sols/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
