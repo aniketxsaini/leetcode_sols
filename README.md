@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/aniketxsaini/leetcode_sols/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/aniketxsaini/leetcode_sols/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aniketxsaini/leetcode_sols/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aniketxsaini/leetcode_sols/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aniketxsaini/leetcode_sols/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aniketxsaini/leetcode_sols/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/aniketxsaini/leetcode_sols/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/aniketxsaini/leetcode_sols/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aniketxsaini/leetcode_sols/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/aniketxsaini/leetcode_sols/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aniketxsaini/leetcode_sols/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/aniketxsaini/leetcode_sols/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/aniketxsaini/leetcode_sols/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -249,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aniketxsaini/leetcode_sols/tree/master/0148-sort-list) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/aniketxsaini/leetcode_sols/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
