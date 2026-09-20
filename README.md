@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketxsaini/leetcode_sols/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/aniketxsaini/leetcode_sols/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/aniketxsaini/leetcode_sols/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/aniketxsaini/leetcode_sols/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/aniketxsaini/leetcode_sols/tree/master/0796-rotate-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aniketxsaini/leetcode_sols/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/aniketxsaini/leetcode_sols/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/aniketxsaini/leetcode_sols/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/aniketxsaini/leetcode_sols/tree/master/0682-baseball-game) |
@@ -274,5 +276,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aniketxsaini/leetcode_sols/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aniketxsaini/leetcode_sols/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
