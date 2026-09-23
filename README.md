@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aniketxsaini/leetcode_sols/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aniketxsaini/leetcode_sols/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/aniketxsaini/leetcode_sols/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketxsaini/leetcode_sols/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aniketxsaini/leetcode_sols/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aniketxsaini/leetcode_sols/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aniketxsaini/leetcode_sols/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aniketxsaini/leetcode_sols/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aniketxsaini/leetcode_sols/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/aniketxsaini/leetcode_sols/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketxsaini/leetcode_sols/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aniketxsaini/leetcode_sols/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniketxsaini/leetcode_sols/tree/master/1248-count-number-of-nice-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketxsaini/leetcode_sols/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aniketxsaini/leetcode_sols/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniketxsaini/leetcode_sols/tree/master/1248-count-number-of-nice-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketxsaini/leetcode_sols/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aniketxsaini/leetcode_sols/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniketxsaini/leetcode_sols/tree/master/1248-count-number-of-nice-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketxsaini/leetcode_sols/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
