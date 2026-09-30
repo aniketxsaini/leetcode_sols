@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aniketxsaini/leetcode_sols/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniketxsaini/leetcode_sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/aniketxsaini/leetcode_sols/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/aniketxsaini/leetcode_sols/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aniketxsaini/leetcode_sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketxsaini/leetcode_sols/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/aniketxsaini/leetcode_sols/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/aniketxsaini/leetcode_sols/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/aniketxsaini/leetcode_sols/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aniketxsaini/leetcode_sols/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aniketxsaini/leetcode_sols/tree/master/0142-linked-list-cycle-ii) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniketxsaini/leetcode_sols/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aniketxsaini/leetcode_sols/tree/master/0678-valid-parenthesis-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aniketxsaini/leetcode_sols/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
