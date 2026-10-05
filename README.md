@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketxsaini/leetcode_sols/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aniketxsaini/leetcode_sols/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/aniketxsaini/leetcode_sols/tree/master/0067-add-binary) |
 | [0424-longest-repeating-character-replacement](https://github.com/aniketxsaini/leetcode_sols/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/aniketxsaini/leetcode_sols/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/aniketxsaini/leetcode_sols/tree/master/0796-rotate-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aniketxsaini/leetcode_sols/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/aniketxsaini/leetcode_sols/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aniketxsaini/leetcode_sols/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/aniketxsaini/leetcode_sols/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aniketxsaini/leetcode_sols/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniketxsaini/leetcode_sols/tree/master/1248-count-number-of-nice-subarrays) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aniketxsaini/leetcode_sols/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/aniketxsaini/leetcode_sols/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/aniketxsaini/leetcode_sols/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aniketxsaini/leetcode_sols/tree/master/0231-power-of-two) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aniketxsaini/leetcode_sols/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/aniketxsaini/leetcode_sols/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/aniketxsaini/leetcode_sols/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aniketxsaini/leetcode_sols/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aniketxsaini/leetcode_sols/tree/master/2149-rearrange-array-elements-by-sign) |
