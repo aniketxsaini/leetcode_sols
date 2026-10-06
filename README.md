@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aniketxsaini/leetcode_sols/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aniketxsaini/leetcode_sols/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/aniketxsaini/leetcode_sols/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/aniketxsaini/leetcode_sols/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aniketxsaini/leetcode_sols/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniketxsaini/leetcode_sols/tree/master/1248-count-number-of-nice-subarrays) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aniketxsaini/leetcode_sols/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/aniketxsaini/leetcode_sols/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/aniketxsaini/leetcode_sols/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/aniketxsaini/leetcode_sols/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aniketxsaini/leetcode_sols/tree/master/0231-power-of-two) |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aniketxsaini/leetcode_sols/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/aniketxsaini/leetcode_sols/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
