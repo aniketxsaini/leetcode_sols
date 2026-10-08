@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/aniketxsaini/leetcode_sols/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aniketxsaini/leetcode_sols/tree/master/0231-power-of-two) |
+| [0779-k-th-symbol-in-grammar](https://github.com/aniketxsaini/leetcode_sols/tree/master/0779-k-th-symbol-in-grammar) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniketxsaini/leetcode_sols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aniketxsaini/leetcode_sols/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/1486-xor-operation-in-an-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/aniketxsaini/leetcode_sols/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aniketxsaini/leetcode_sols/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/aniketxsaini/leetcode_sols/tree/master/0389-find-the-difference) |
+| [0779-k-th-symbol-in-grammar](https://github.com/aniketxsaini/leetcode_sols/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aniketxsaini/leetcode_sols/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/1486-xor-operation-in-an-array) |
 ## Divide and Conquer
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/aniketxsaini/leetcode_sols/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aniketxsaini/leetcode_sols/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aniketxsaini/leetcode_sols/tree/master/0234-palindrome-linked-list) |
+| [0779-k-th-symbol-in-grammar](https://github.com/aniketxsaini/leetcode_sols/tree/master/0779-k-th-symbol-in-grammar) |
 ## Linked List
 |  |
 | ------- |
