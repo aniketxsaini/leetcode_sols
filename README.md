@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aniketxsaini/leetcode_sols/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aniketxsaini/leetcode_sols/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aniketxsaini/leetcode_sols/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aniketxsaini/leetcode_sols/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aniketxsaini/leetcode_sols/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aniketxsaini/leetcode_sols/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/aniketxsaini/leetcode_sols/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0977-squares-of-a-sorted-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aniketxsaini/leetcode_sols/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aniketxsaini/leetcode_sols/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/aniketxsaini/leetcode_sols/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/aniketxsaini/leetcode_sols/tree/master/0860-lemonade-change) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aniketxsaini/leetcode_sols/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String Matching
 |  |
 | ------- |
