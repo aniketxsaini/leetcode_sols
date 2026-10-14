@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aniketxsaini/leetcode_sols/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aniketxsaini/leetcode_sols/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aniketxsaini/leetcode_sols/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/aniketxsaini/leetcode_sols/tree/master/2540-minimum-common-value) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aniketxsaini/leetcode_sols/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aniketxsaini/leetcode_sols/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aniketxsaini/leetcode_sols/tree/master/3875-construct-uniform-parity-array-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aniketxsaini/leetcode_sols/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aniketxsaini/leetcode_sols/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aniketxsaini/leetcode_sols/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/aniketxsaini/leetcode_sols/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aniketxsaini/leetcode_sols/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/aniketxsaini/leetcode_sols/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketxsaini/leetcode_sols/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2540-minimum-common-value](https://github.com/aniketxsaini/leetcode_sols/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniketxsaini/leetcode_sols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketxsaini/leetcode_sols/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2540-minimum-common-value](https://github.com/aniketxsaini/leetcode_sols/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
