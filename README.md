@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/aniketxsaini/leetcode_sols/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aniketxsaini/leetcode_sols/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/aniketxsaini/leetcode_sols/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/aniketxsaini/leetcode_sols/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/aniketxsaini/leetcode_sols/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/aniketxsaini/leetcode_sols/tree/master/0904-fruit-into-baskets) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aniketxsaini/leetcode_sols/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aniketxsaini/leetcode_sols/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/aniketxsaini/leetcode_sols/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aniketxsaini/leetcode_sols/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aniketxsaini/leetcode_sols/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aniketxsaini/leetcode_sols/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
