@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aniketxsaini/leetcode_sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/aniketxsaini/leetcode_sols/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aniketxsaini/leetcode_sols/tree/master/0704-binary-search) |
@@ -373,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0852-peak-index-in-a-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aniketxsaini/leetcode_sols/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
