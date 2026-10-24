@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketxsaini/leetcode_sols/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aniketxsaini/leetcode_sols/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aniketxsaini/leetcode_sols/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aniketxsaini/leetcode_sols/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/aniketxsaini/leetcode_sols/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aniketxsaini/leetcode_sols/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aniketxsaini/leetcode_sols/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/aniketxsaini/leetcode_sols/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketxsaini/leetcode_sols/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/aniketxsaini/leetcode_sols/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aniketxsaini/leetcode_sols/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/aniketxsaini/leetcode_sols/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aniketxsaini/leetcode_sols/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
