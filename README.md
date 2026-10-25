@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/aniketxsaini/leetcode_sols/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/aniketxsaini/leetcode_sols/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniketxsaini/leetcode_sols/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/aniketxsaini/leetcode_sols/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aniketxsaini/leetcode_sols/tree/master/0560-subarray-sum-equals-k) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aniketxsaini/leetcode_sols/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/aniketxsaini/leetcode_sols/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/aniketxsaini/leetcode_sols/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniketxsaini/leetcode_sols/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aniketxsaini/leetcode_sols/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/aniketxsaini/leetcode_sols/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/aniketxsaini/leetcode_sols/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aniketxsaini/leetcode_sols/tree/master/0231-power-of-two) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniketxsaini/leetcode_sols/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aniketxsaini/leetcode_sols/tree/master/0779-k-th-symbol-in-grammar) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniketxsaini/leetcode_sols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aniketxsaini/leetcode_sols/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
